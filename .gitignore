@@ -1,0 +1,20 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SistemaVenta/v17/.wsuo
+/.vs/SistemaVenta/v17/DocumentLayout.json
+/Sistema de Ventas/CapaDatos/obj/Debug/.NETCore,Version=v5.0.AssemblyAttributes.cs
+/Sistema de Ventas/CapaDatos/obj/Debug/CapaDatos.csproj.AssemblyReference.cache
+/Sistema de Ventas/CapaDatos/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Sistema de Ventas/CapaEntidad/obj/Debug/.NETCore,Version=v5.0.AssemblyAttributes.cs
+/Sistema de Ventas/CapaEntidad/obj/Debug/CapaEntidad.csproj.AssemblyReference.cache
+/Sistema de Ventas/CapaEntidad/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Sistema de Ventas/CapaNegocio/obj/Debug/.NETCore,Version=v5.0.AssemblyAttributes.cs
+/Sistema de Ventas/CapaNegocio/obj/Debug/CapaNegocio.csproj.AssemblyReference.cache
+/Sistema de Ventas/CapaNegocio/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Sistema de Ventas/CapaPresentacion/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+/Sistema de Ventas/CapaPresentacion/obj/Debug/CapaPresentacion.csproj.AssemblyReference.cache
+/Sistema de Ventas/CapaPresentacion/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Sistema de Ventas/Solution/.vs/SistemaVenta/FileContentIndex/540f81fd-62e3-404c-a2db-b34fee13f240.vsidx
+/Sistema de Ventas/Solution/.vs/SistemaVenta/v17/.suo
